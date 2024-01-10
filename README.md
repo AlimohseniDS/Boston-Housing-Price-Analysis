@@ -1,5 +1,6 @@
-# portfolio-part-4-Sayedalimohseni
-portfolio-part-4-Sayedalimohseni created by GitHub Classroom
+# boston-housing-price-analysis
+-Sayedalimohseni
+
 
 ## Introduction
 
@@ -94,17 +95,13 @@ Although I have uploaded the actual dataset on the repository, I used its link i
 
 ## Contributing
 
-There is no room for contribution, since this repository is private.
+I would happy to have anyone's contribution.
 
-## License
-
-Distributed under the Macquaire University.
 
 ## Contact
 
-Sayedali Mohseni 46765778 - sayedali.mohseni@students.mq.edu.au
+ali.freestyle2014@gmail.com
 
-Project Link: https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Sayedalimohseni
 
 ## Acknowledgments
 
