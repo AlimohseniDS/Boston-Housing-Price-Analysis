@@ -1,5 +1,4 @@
 # boston-housing-price-analysis
--Sayedalimohseni
 
 
 ## Introduction
